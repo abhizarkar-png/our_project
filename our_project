@@ -2,5 +2,12 @@ hey there,
 i have write this lines, please add some line more for testing.
 when its completed, please let me know,
 thanks.
+<<<<<<< HEAD
 i have add one more line for testing.
 added  some lines from mumbai.
+=======
+hello, abhi,
+i am adding this line for testing,
+plese check and let me know.
+one more
+>>>>>>> 6da659b6b2171a9548dad11ef4b3d07d8a7c5b63
